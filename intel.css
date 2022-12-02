@@ -100,7 +100,34 @@ body
 {
     color: black;
 }
-.pare
+.parent
+{
+    width: 100%;
+    background-image: url(intelimg/fullimage.jpg);
+    background-size:contain;
+    height: 360px;
+   
+    
+}
+.full
+{
+   float:right;
+    cursor: pointer;
+    
+    padding-top: 32px;
+}
+
+.learnm
+{
+    width: 159px;
+    height: 45px;
+    padding-left: 82px;
+    padding-top: 221px;
+    cursor: pointer;
+
+
+}
+
 .secondline
 {
     width: 100%;
